@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-<!-- ![Adex Desktop Demo](./readme-images/desktop.png "Desktop Demo") -->
+![Adex Desktop Demo](./readme-images/desks.png "Desktop Demo")
 
 ### Prerequisites
 
