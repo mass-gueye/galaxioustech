@@ -13,7 +13,7 @@
 
  Galaxious Tech is an interesting company focused on developing web, mobile, and service applications. Their goal of designing applications with international visibility indicates their intention to create products that can reach a global audience.
 
-  <!-- <a href="https://codewithsadee.github.io/adex/"><strong>➥ Live Demo</strong></a> -->
+  <a href="https://mass-gueye.github.io/galaxioustech/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
